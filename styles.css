@@ -245,6 +245,7 @@
         background-color: #5EA52F;
         background-image: linear-gradient(to top, #ffa600 0%, #008605 100%);
         background-size: 100%;
+        text-align: center;
         -webkit-background-clip: text;
         -moz-background-clip: text;
         -webkit-text-fill-color: transparent;
