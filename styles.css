@@ -631,6 +631,19 @@
         transition: 0.2s ease-in;
         cursor: pointer;
     }
+    .services__card2:hover 
+    {
+        transform: scale(1.075);
+        transition: 0.2s ease-in;
+        cursor: pointer;
+    }
+    .services__card3:hover 
+    {
+        transform: scale(1.075);
+        transition: 0.2s ease-in;
+        cursor: pointer;
+    }
+
     .services__cardgames:hover 
     {
         transform: scale(1.075);
@@ -650,6 +663,18 @@
         cursor: pointer;
     }
     .services__card button:hover
+    {
+        transform: scale(1.075);
+        transition: 0.2s ease-in;
+        cursor: pointer;
+    }
+    .services__card2 button:hover
+    {
+        transform: scale(1.075);
+        transition: 0.2s ease-in;
+        cursor: pointer;
+    }
+    .services__card3 button:hover
     {
         transform: scale(1.075);
         transition: 0.2s ease-in;
@@ -710,6 +735,14 @@
             font-size: 1rem;
         }
         .services__card
+        {
+            width: 300px;
+        }
+        .services__card2
+        {
+            width: 300px;
+        }
+        .services__card3
         {
             width: 300px;
         }
