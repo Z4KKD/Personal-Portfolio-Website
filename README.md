@@ -18,15 +18,7 @@ The website showcases Zachary Duncan's skills, projects, and experiences as a de
 - **Games Showcase**: The games page showcases various games developed by Zachary, with links to play each game.
 - **Contact Information**: The footer section provides contact information for users to reach out to Zachary.
 
-## Usage
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/z4kkd-portfolio.git
-   ```
-2. Open the `index.html` file in a web browser to view the main landing page of the website.
-3. Navigate to `games.html` to view the games showcase page.
-
 ## Author
 [Zachary Duncan](https://github.com/Z4KKD)
 
-Feel free to explore the repository and provide feedback or suggestions for improvement. Contributions are welcome!
+Feel free to explore the repository and provide feedback or suggestions for improvement.
