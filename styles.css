@@ -491,12 +491,13 @@
     }
     .services p
     {
+        color: #fff;
         padding-left: 100px;
         padding-right: 100px;
         text-align: center;
         font-size: 1.5rem;
         background-color: #707070;
-        background-image: linear-gradient(to top, #707070 0%, #32CD32 100%);
+        background-image: linear-gradient(to top, #fff 0%, #fff 100%);
         background-size: 100%;
         -webkit-background-clip: text;
         -moz-background-clip: text;
