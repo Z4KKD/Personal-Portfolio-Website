@@ -491,19 +491,12 @@
     }
     .services p
     {
-        color: #fff;
-        padding-left: 100px;
-        padding-right: 100px;
-        text-align: center;
-        font-size: 1.5rem;
-        background-color: #fff;
-        background-image: linear-gradient(to top, #fff 0%, #fff 100%);
-        background-size: 100%;
-        -webkit-background-clip: text;
-        -moz-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        -moz-text-fill-color: transparent;
-        margin-bottom: 5rem;
+    color: #fff;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 5rem;
     }
     .services__card p
     {
