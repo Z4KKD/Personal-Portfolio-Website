@@ -207,10 +207,21 @@
     }
    }
     /* Hero Section CSS */
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+    body {
+        flex-grow: 1;
+    }
     .main
     {
         background-color: #000000;
-        flex-grow: 1
+        flex-grow: 1;
         padding: 20px;
 
     }
@@ -221,12 +232,13 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 90vh;
     background-color: #000000;
     z-index: 1;
     width: 100%;
     max-width: 1300px;
     padding: 0 50px;
+    min-height: 90vh;
+    height: auto;
     }
 
     .main__content h1
